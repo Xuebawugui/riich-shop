@@ -19,13 +19,13 @@
     <li><span>E-mail</span><a href="mailto:${contact.email}">${contact.email}</a></li>
     <li><span>Horaires</span>${contact.hours}</li>`;
 
-  const mailSubject = encodeURIComponent("Contact JD SPORTS RIICH Conciergerie");
+  const mailSubject = encodeURIComponent("Contact Emma - Uriëlle Banlog Gwos");
   const mailBody = encodeURIComponent(
     "Bonjour,\n\nJe souhaite vous contacter.\n\nNom :\nVille :\nSujet (boutique / partenariat / commande) :\nMessage :\n\nMerci."
   );
 
   document.getElementById("contact-actions").innerHTML = `
-    <a class="btn btn--accent btn--block contact-action" href="https://wa.me/${wa}?text=${encodeURIComponent("Bonjour JD SPORTS RIICH Conciergerie, je souhaite vous contacter.")}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+    <a class="btn btn--accent btn--block contact-action" href="https://wa.me/${wa}?text=${encodeURIComponent("Bonjour Emma - Uriëlle Banlog Gwos, je souhaite vous contacter.")}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
     <a class="btn btn--block contact-action" href="mailto:${contact.email}?subject=${mailSubject}&body=${mailBody}">E-mail ${contact.email}</a>
     <a class="btn btn--block contact-action" href="tel:${tel}">Appeler ${contact.phoneDisplay || contact.phone}</a>
   `;

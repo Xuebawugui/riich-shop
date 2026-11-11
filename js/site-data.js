@@ -1,16 +1,16 @@
 window.SITE = {
-  name: "JD SPORTS RIICH",
-  legalName: "JD SPORTS RIICH Conciergerie",
-  brand: "RIICH Conciergerie",
-  title: "JD SPORTS RIICH Conciergerie",
+  name: "Emma",
+  legalName: "Emma - Uriëlle Banlog Gwos",
+  brand: "Uriëlle Banlog Gwos",
+  title: "Emma - Uriëlle Banlog Gwos",
   location: "2 rue du général de Gaulle, 77200 Collégien, France",
   intro:
-    "À Collégien, JD SPORTS RIICH Conciergerie sélectionne des pièces street & sport pour le quotidien : sneakers vibe, mailles techniques, denim et outerwear. Essayage sur place, conseils taille et retrait express rue du Général de Gaulle.",
+    "À Collégien, Emma - Uriëlle Banlog Gwos sélectionne des pièces street & sport pour le quotidien : sneakers vibe, mailles techniques, denim et outerwear. Essayage sur place, conseils taille et retrait express rue du Général de Gaulle.",
   motto: "Style sport, service conciergerie, réponse rapide",
   mission:
     "Rendre le streetwear et le sportswear accessibles à Collégien, avec un service conciergerie : réservation, click & collect et conseils personnalisés.",
   footerAbout:
-    "JD SPORTS RIICH Conciergerie — 2 rue du général de Gaulle, 77200 Collégien. Essayages, conseils style et commandes par WhatsApp ou e-mail.",
+    "Emma - Uriëlle Banlog Gwos — 2 rue du général de Gaulle, 77200 Collégien. Essayages, conseils style et commandes par WhatsApp ou e-mail.",
   contact: {
     phone: "33780297449",
     phoneDisplay: "+33 7 80 29 74 49",
@@ -19,7 +19,7 @@ window.SITE = {
     whatsapp: "33780297449",
   },
   services: [
-    { title: "Essayage en boutique", desc: "Conseils taille et associations street/sport avec l'équipe RIICH" },
+    { title: "Essayage en boutique", desc: "Conseils taille et associations street/sport avec l'équipe Emma" },
     { title: "Conciergerie", desc: "Réservation, préparation de commande et retrait express à Collégien" },
     { title: "Click & collect", desc: "Commandez par WhatsApp et retirez rue du Général de Gaulle" },
     { title: "Envoi en France", desc: "Livraison soignée sur demande — emballage boutique" },
@@ -28,7 +28,7 @@ window.SITE = {
     { title: "Street & sport", desc: "Silhouettes actuelles, matières techniques et looks faciles à porter" },
     { title: "Service local", desc: "Une adresse claire à Collégien, conseils sur place et par message" },
     { title: "Réponse rapide", desc: "WhatsApp et e-mail pour réserver une pièce ou valider une taille" },
-    { title: "Conciergerie RIICH", desc: "De la sélection à la remise en main propre, un parcours simple" },
+    { title: "Conciergerie Emma", desc: "De la sélection à la remise en main propre, un parcours simple" },
   ],
   franchiseBenefits: [
     { title: "Réponse rapide", desc: "WhatsApp et e-mail : réponse en général sous 24–48 h ouvrées" },
@@ -37,7 +37,7 @@ window.SITE = {
     { title: "Nouveautés", desc: "Arrivages réguliers — suivez les actualités de la boutique" },
   ],
   partnershipLead:
-    "Vous êtes revendeur, créateur ou boutique partenaire ? Contactez JD SPORTS RIICH Conciergerie pour découvrir les conditions et les tarifs professionnels.",
+    "Vous êtes revendeur, créateur ou boutique partenaire ? Contactez Emma - Uriëlle Banlog Gwos pour découvrir les conditions et les tarifs professionnels.",
   partnershipModels: [
     {
       title: "Achat boutique",
@@ -49,7 +49,7 @@ window.SITE = {
     },
     {
       title: "Partenaires locaux",
-      desc: "Sélection JD SPORTS RIICH pour points de vente partenaires en Île-de-France.",
+      desc: "Sélection Emma pour points de vente partenaires en Île-de-France.",
     },
     {
       title: "Conciergerie & styling",
@@ -94,14 +94,14 @@ window.SITE = {
   newsFeatured: "collegien-ouverture",
   news: [
     {
-      title: "JD SPORTS RIICH à Collégien : nouvelle adresse street & sport",
+      title: "Emma à Collégien : nouvelle adresse street & sport",
       date: "2026-02-20",
       category: "Boutique",
       readMin: 4,
       image: "assets/images/news-boutique.jpg",
       slug: "collegien-ouverture",
       excerpt:
-        "Rue du Général de Gaulle, RIICH Conciergerie propose denim, mailles et outerwear avec essayage et retrait express. L'accent : service local et pièces faciles à porter.",
+        "Rue du Général de Gaulle, Emma - Uriëlle Banlog Gwos propose denim, mailles et outerwear avec essayage et retrait express. L'accent : service local et pièces faciles à porter.",
       body: `<p>La boutique mise sur des <strong>looks street</strong> et des matières confortables pour le quotidien. Les best-sellers du moment : jean wide-leg, pull côtelé et veste structurée.</p><p>Passez nous voir du lundi au samedi, ou écrivez sur WhatsApp pour réserver une pièce avant votre visite.</p>`,
     },
     {
@@ -123,7 +123,7 @@ window.SITE = {
       image: "assets/images/news-colors.jpg",
       slug: "couleurs-2026-boutique",
       excerpt:
-        "Cette saison, JD SPORTS RIICH mise sur des tons faciles à associer : ivoire, olive, graphite et une touche volt sur les accessoires.",
+        "Cette saison, Emma mise sur des tons faciles à associer : ivoire, olive, graphite et une touche volt sur les accessoires.",
       body: `<p>Les clientes privilégient les tenues <strong>monochromes</strong> avec une pièce accent (veste structurée ou jupe satinée). Les imprimés restent discrets.</p><p>Retrouvez la palette complète sur les cintres à Collégien.</p>`,
     },
     {

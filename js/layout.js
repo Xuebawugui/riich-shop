@@ -31,7 +31,7 @@
         <header class="site-header">
           <div class="header-inner">
             <a class="logo" href="index.html">
-              <span class="logo-mark" aria-hidden="true">JD</span>
+              <span class="logo-mark" aria-hidden="true">EM</span>
               <span class="logo-text">
                 <span class="logo-name">${name}</span>
                 <span class="logo-brand">${brand}</span>

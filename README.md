@@ -1,6 +1,6 @@
-# JD SPORTS RIICH Conciergerie
+# Emma - Uriëlle Banlog Gwos
 
-Site vitrine statique **JD SPORTS RIICH Conciergerie** (Collégien, France).
+Site vitrine statique **Emma - Uriëlle Banlog Gwos** (Collégien, France).
 
 ## Contact
 

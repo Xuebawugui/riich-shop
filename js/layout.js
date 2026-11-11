@@ -21,9 +21,9 @@
             <span class="topbar__company">${legalName}</span>
             <div class="topbar__links">
               <a href="https://wa.me/${wa}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-              <span class="topbar__sep" aria-hidden="true">|</span>
+              <span class="topbar__sep" aria-hidden="true">·</span>
               <a href="tel:${tel}">${contact.phoneDisplay || contact.phone}</a>
-              <span class="topbar__sep" aria-hidden="true">|</span>
+              <span class="topbar__sep" aria-hidden="true">·</span>
               <a href="mailto:${contact.email}">${contact.email}</a>
             </div>
           </div>
@@ -31,14 +31,14 @@
         <header class="site-header">
           <div class="header-inner">
             <a class="logo" href="index.html">
-              <span class="logo-mark" aria-hidden="true">GM</span>
+              <span class="logo-mark" aria-hidden="true">JD</span>
               <span class="logo-text">
                 <span class="logo-name">${name}</span>
                 <span class="logo-brand">${brand}</span>
               </span>
             </a>
             <nav class="main-nav" aria-label="Navigation principale">${links}</nav>
-            <a class="btn btn--accent btn--sm header-cta" href="franchise.html">Contacter les ventes</a>
+            <a class="btn btn--accent btn--sm header-cta" href="franchise.html">Nous contacter</a>
           </div>
         </header>
       </div>`;
@@ -88,7 +88,7 @@
         </div>
         <div class="footer-copy">
           <p>© ${year} ${legalName}. Tous droits réservés.</p>
-          <p class="footer-copy__sub">Tout le contenu de ce site appartient à ${legalName} · ${brand}</p>
+          <p class="footer-copy__sub">Tout le contenu de ce site appartient à ${legalName}</p>
         </div>
       </footer>`;
   }
